@@ -1,0 +1,17 @@
+{
+  "name": "twitter nft callout",
+  "description": "call out twitter users with an nft profile with a Big Red Flag!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [{
+    "css": ["yay.css"],
+    "matches": ["*://*.twitter.com/*"]
+  }],
+  "permissions": ["tabs"],
+  "host_permissions": [
+    "*://*.twitter.com/*"
+  ],
+  "icons":{
+    "256": "icon.png"
+  }
+}

@@ -1,10 +1,12 @@
 # nft callout chrome extension
 as we all know, twitter recently unrolled this feature for users to set nfts as their pfp. i've seen a couple of chrome extensions that auto-block these (such as [this](https://github.com/mcclure/NFTBlocker)), but y'know, the satisfaction of blocking someone manually? anyways, i made this.
 
+also works on opera(tested) and other chromium-based browsers with an extensions feature, probably!
+
 ## install instructions
 - download "nft-callout.zip" from the right under "releases".
 - unzip it.
-- go to chrome://extensions if you're on a chrome browser. you should be on one? if you're not, this wouldn't work. sorry.
+- go to chrome://extensions if you're on a google chrome, or opera:extensions if you're on opera, or google around for other browsers.
 - turn on developer mode (top right)
 - choose "load unpacked"
 - navigate to this

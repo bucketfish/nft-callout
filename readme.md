@@ -14,8 +14,18 @@ have fun :) if you know css you can even have a go at modifying it slightly.
 
 it's rather bodgy, but hey, it works! at least, it works for me on the newest version of chrome on a mac. i have no idea about other platforms or versions, sorry.
 
-## why mark and not block?
+## faq
+**why mark and not block?**  
 honestly, i just doing this a lot cleaner. and of course the ✨ satisfaction ✨ of blocking manually :)
 
-## how does this work?
+**can't you already see hexagons in pfps?**  
+there are some people who mock nft by putting hexagons in their pfp. also, it's pretty small. hard to see. and also a red flag is funny.
+
+**how does this work?**  
 it just injects some css into your browser that adds some red and a flag to any profile picture with the hexagon crop.
+
+**there's a bug!**  
+you can open an issue or drop me a message [on twitter](https://twitter.com/bucketfish_)! no promise that i'll get to it tho.
+
+**i hate nfts!**  
+me too.
